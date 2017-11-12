@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">VQMS INTERNSHIP, ACCREDITATION</string>
+
+<string name="title">CAMPUS DRIVE</string>
+<string name="name">Company Name</string>
+<string name="location">Loc-Address</string>
+<string name="email">Email</string>
+<string name="mobno">Mobile No.</string>
+<string name="response">Response</string>
+<string name="button">Submit</string>
+<string name="departments">Department</string>
+<string name="type">TyPe</string>
+
+
+
+    <string name="nameinvite">Name of Invitee</string>
+
+
+
+<string name="stitle">INTERNSHIP</string>
+<string name="sname">Student Name</string>
+<string name="sdomain">Interested Domain</string>
+<string name="smobno">Mobile No.</string>
+<string name="semail">Email</string>
+<string name="slocation">Loc-Address</string>
+<string name="degree">Degree</string>
+
+<string name="ctitle">INTERNSHIP WITH CERTIFICATION</string>
+<string name="cname">Student Name</string>
+<string name="cdomain">Interested Domain</string>
+<string name="cmobno">Mobile No.</string>
+<string name="cemail">Email</string>
+<string name="clocation">Loc-Address</string>
+<string name="cdegree">Degree</string>
+
+
+<!--Other string resources also defined in this fileâ€¦ -->
+<string name="type1">Marketing BD</string>
+<string name="type2">HR</string>
+<string name="type3">Operations</string>
+    <string name="type4">Tie-Up Coordinator</string>
+    <string name="typ1">2 Certificate</string>
+    <string name="typ2">3 Certificate</string>
+    <string name="typ3">5 Cerifiacate</string>
+</resources>
+
